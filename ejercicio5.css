@@ -2,7 +2,7 @@
 
 
 agenda {background-color:#BAF086;}
-contacto {background-color:#178EE6;display:block;margin-bottom:10px; text-position:center}
-nombre, apellido,telefono,celular,direccion,email,nacimiento,tipocontacto {color:white; display:block;}
+contacto {background-color:#178EE6;display:block;text-position:center;margin-left:250px;margin-right:250px}
+nombre, apellido,telefono,celular,direccion,email,nacimiento,tipoContacto{color:white; display:block;margin:10px;}
 fechacreacion {display:none}
 
