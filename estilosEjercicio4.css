@@ -1,3 +1,29 @@
-pais {background-color: #212B38; display:block;}
-nombre {background-color: #726EFF; display:block;}
-dia {background-color:#08C6AB ;display:block;}
+pais {
+    background-color: #212B38;
+    display:block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nombre {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #726EFF;
+    display:block;
+    color: white;
+    padding: 7px;;
+}
+
+dia {
+    padding: 5px;
+    background-color:#08C6AB;
+    display:block;
+    font-weight: normal;
+    color: black;
+    border-bottom: 2px solid #212B38;
+}
+
+estacion {
+    padding: 50px;
+}
