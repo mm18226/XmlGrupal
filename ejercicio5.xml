@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml-stylesheet encoding="UTF-8" href="ejercicio5.css"?>
 <agenda>
 	<contacto id="1">
 		<nombre>Miguel</nombre>

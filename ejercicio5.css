@@ -1,0 +1,8 @@
+/*ejercicio5.css Grupo 01*/
+
+
+agenda {background-color:#BAF086;}
+contacto {background-color:#178EE6;display:block;margin-bottom:10px; text-position:center}
+nombre, apellido,telefono,celular,direccion,email,nacimiento,tipocontacto {color:white; display:block;}
+fechacreacion {display:none}
+
