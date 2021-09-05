@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<contacto id="1">
+		<nombre>Miguel</nombre>
+		<apellido>Peña</apellido>
+		<telefono>22234212</telefono>
+		<celular>72302364</celular>
+		<direccion>Calle Monserrat</direccion>
+		<email>pc12016@ues.edu.sv</email>
+		<nacimiento>01-08-1992</nacimiento>
+		<fechacreacion>01-09-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+	<contacto id="2">
+		<nombre>Carlos</nombre>
+		<apellido>Callejas</apellido>
+		<telefono>23415234</telefono>
+		<celular>61231243</celular>
+		<direccion>Autopista sur</direccion>
+		<email>cc@gmail.com</email>
+		<nacimiento>12-12-1988</nacimiento>
+		<fechacreacion>12-03-2021</fechacreacion>
+		<tipoContacto>Empresarial</tipoContacto>
+	</contacto>
+	<contacto id="3">
+		<nombre>Enrique</nombre>
+		<apellido>Córdova</apellido>
+		<telefono>22431432</telefono>
+		<celular>73023612</celular>
+		<direccion>Col. Luz</direccion>
+		<email>enrique@gmail.com</email>
+		<nacimiento>01-09-2000</nacimiento>
+		<fechacreacion>11-4-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+	<contacto id="4">
+		<nombre>Ángel</nombre>
+		<apellido>Calderón</apellido>
+		<telefono>23000432</telefono>
+		<celular>63142323</celular>
+		<direccion>Antiguo Cuscatlán</direccion>
+		<email>Angel@hotmail.com</email>
+		<nacimiento>30-11-1990</nacimiento>
+		<fechacreacion>01-09-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+	<contacto id="5">
+		<nombre>Christian</nombre>
+		<apellido>Pérez</apellido>
+		<telefono>22434123</telefono>
+		<celular>72112237</celular>
+		<direccion>Col. Satelite</direccion>
+		<email>cperez@gmail.com</email>
+		<nacimiento>01-09-1995</nacimiento>
+		<fechacreacion>01-09-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+	<contacto id="6">
+		<nombre>Edgardo</nombre>
+		<apellido>Rodríguez</apellido>
+		<telefono>23542365</telefono>
+		<celular>61223532</celular>
+		<direccion>San Marcos</direccion>
+		<email>brodriguez@gmail.com</email>
+		<nacimiento>01-12-1985</nacimiento>
+		<fechacreacion>01-09-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+	<contacto id="7">
+		<nombre>Jennifer</nombre>
+		<apellido>Hernández</apellido>
+		<telefono>23513498</telefono>
+		<celular>71227389</celular>
+		<direccion>Ilopango</direccion>
+		<email>jenher@gmail.com</email>
+		<nacimiento>01-03-1986</nacimiento>
+		<fechacreacion>23-09-2021</fechacreacion>
+		<tipoContacto>Personal</tipoContacto>
+	</contacto>
+</agenda>
