@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="estilosEjercicio4.css"?>
+
+<pais>
+<estacion id="1">
+<nombre>Ocidente
+    <dia id="1" >
+    <nombredia> Lunes</nombredia>
+        <minima> 22</minima>
+        <promedio> 30</promedio>
+        <maxima>33</maxima>
+    </dia>
+     <dia id="2">
+         <nombredia> Martes</nombredia>
+        <minima> 23</minima>
+        <promedio> 29</promedio>
+        <maxima>30</maxima>
+    </dia>
+     <dia id="3">
+         <nombredia> Miercoles</nombredia>
+        <minima> 22</minima>
+        <promedio> 32</promedio>
+        <maxima>35</maxima>
+    </dia>
+     <dia id="4">
+         <nombredia> Jueves</nombredia>
+        <minima> 19</minima>
+        <promedio> 28</promedio>
+        <maxima>30</maxima>
+    </dia>
+     <dia id="5">
+         <nombredia> Viernes</nombredia>
+        <minima> 20</minima>
+        <promedio> 29</promedio>
+        <maxima>32</maxima>
+    </dia>
+     <dia id="6">
+         <nombredia> Sabado</nombredia>
+        <minima> 21</minima>
+        <promedio> 29</promedio>
+        <maxima>31</maxima>
+    </dia>
+     <dia id="7">
+         <nombredia>Domingo</nombredia>
+        <minima> 23</minima>
+        <promedio> 31</promedio>
+        <maxima>33</maxima>
+    </dia>
+    </nombre>
+</estacion>
+<estacion id="2">
+<nombre>Ocidente
+    <dia id="1" >
+    <nombredia> Lunes</nombredia>
+        <minima> 20</minima>
+        <promedio> 30</promedio>
+        <maxima>33</maxima>
+    </dia>
+     <dia id="2">
+         <nombredia> Martes</nombredia>
+        <minima> 25</minima>
+        <promedio> 29</promedio>
+        <maxima>30</maxima>
+    </dia>
+     <dia id="3">
+         <nombredia> Miercoles</nombredia>
+        <minima> 22</minima>
+        <promedio> 31</promedio>
+        <maxima>36</maxima>
+    </dia>
+     <dia id="4">
+         <nombredia> Jueves</nombredia>
+        <minima> 21</minima>
+        <promedio> 28</promedio>
+        <maxima>30</maxima>
+    </dia>
+     <dia id="5">
+         <nombredia> Viernes</nombredia>
+        <minima> 22</minima>
+        <promedio> 29</promedio>
+        <maxima>34</maxima>
+    </dia>
+     <dia id="6">
+         <nombredia> Sabado</nombredia>
+        <minima> 20</minima>
+        <promedio> 29</promedio>
+        <maxima>31</maxima>
+    </dia>
+     <dia id="7">
+         <nombredia>Domingo</nombredia>
+        <minima> 22</minima>
+        <promedio> 30</promedio>
+        <maxima>33</maxima>
+    </dia>
+    </nombre>
+</estacion>
+<estacion id="3">
+<nombre>Oriente
+    <dia id="1" >
+    <nombredia> Lunes</nombredia>
+        <minima> 24</minima>
+        <promedio> 30</promedio>
+        <maxima>36</maxima>
+    </dia>
+     <dia id="2">
+         <nombredia> Martes</nombredia>
+        <minima> 25</minima>
+        <promedio> 29</promedio>
+        <maxima>38</maxima>
+    </dia>
+     <dia id="3">
+         <nombredia> Miercoles</nombredia>
+        <minima> 25</minima>
+        <promedio> 33</promedio>
+        <maxima>39</maxima>
+    </dia>
+     <dia id="4">
+         <nombredia> Jueves</nombredia>
+        <minima> 24</minima>
+        <promedio> 32</promedio>
+        <maxima>34</maxima>
+    </dia>
+     <dia id="5">
+         <nombredia> Viernes</nombredia>
+        <minima> 25</minima>
+        <promedio> 29</promedio>
+        <maxima>34</maxima>
+    </dia>
+     <dia id="6">
+         <nombredia> Sabado</nombredia>
+        <minima> 24</minima>
+        <promedio> 34</promedio>
+        <maxima>39</maxima>
+    </dia>
+     <dia id="7">
+         <nombredia>Domingo</nombredia>
+        <minima> 26</minima>
+        <promedio> 36</promedio>
+        <maxima>40</maxima>
+    </dia>
+    </nombre>
+</estacion>
+</pais>
