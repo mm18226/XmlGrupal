@@ -1,0 +1,175 @@
+﻿{
+	"pais":{"estacion":[
+			{
+				"@id":"1",
+				"nombre":{
+					"#text":"Ocidente\n    ",
+					"dia":[
+						{
+							"@id":"1",
+							"nombredia":" Lunes",
+							"minima":" 22",
+							"promedio":" 30",
+							"maxima":"33"
+						},
+						{
+							"@id":"2",
+							"nombredia":" Martes",
+							"minima":" 23",
+							"promedio":" 29",
+							"maxima":"30"
+						},
+						{
+							"@id":"3",
+							"nombredia":" Miercoles",
+							"minima":" 22",
+							"promedio":" 32",
+							"maxima":"35"
+						},
+						{
+							"@id":"4",
+							"nombredia":" Jueves",
+							"minima":" 19",
+							"promedio":" 28",
+							"maxima":"30"
+						},
+						{
+							"@id":"5",
+							"nombredia":" Viernes",
+							"minima":" 20",
+							"promedio":" 29",
+							"maxima":"32"
+						},
+						{
+							"@id":"6",
+							"nombredia":" Sabado",
+							"minima":" 21",
+							"promedio":" 29",
+							"maxima":"31"
+						},
+						{
+							"@id":"7",
+							"nombredia":"Domingo",
+							"minima":" 23",
+							"promedio":" 31",
+							"maxima":"33"
+						}
+					]
+				}
+			},
+			{
+				"@id":"2",
+				"nombre":{
+					"#text":"Ocidente\n    ",
+					"dia":[
+						{
+							"@id":"1",
+							"nombredia":" Lunes",
+							"minima":" 20",
+							"promedio":" 30",
+							"maxima":"33"
+						},
+						{
+							"@id":"2",
+							"nombredia":" Martes",
+							"minima":" 25",
+							"promedio":" 29",
+							"maxima":"30"
+						},
+						{
+							"@id":"3",
+							"nombredia":" Miercoles",
+							"minima":" 22",
+							"promedio":" 31",
+							"maxima":"36"
+						},
+						{
+							"@id":"4",
+							"nombredia":" Jueves",
+							"minima":" 21",
+							"promedio":" 28",
+							"maxima":"30"
+						},
+						{
+							"@id":"5",
+							"nombredia":" Viernes",
+							"minima":" 22",
+							"promedio":" 29",
+							"maxima":"34"
+						},
+						{
+							"@id":"6",
+							"nombredia":" Sabado",
+							"minima":" 20",
+							"promedio":" 29",
+							"maxima":"31"
+						},
+						{
+							"@id":"7",
+							"nombredia":"Domingo",
+							"minima":" 22",
+							"promedio":" 30",
+							"maxima":"33"
+						}
+					]
+				}
+			},
+			{
+				"@id":"3",
+				"nombre":{
+					"#text":"Oriente\n    ",
+					"dia":[
+						{
+							"@id":"1",
+							"nombredia":" Lunes",
+							"minima":" 24",
+							"promedio":" 30",
+							"maxima":"36"
+						},
+						{
+							"@id":"2",
+							"nombredia":" Martes",
+							"minima":" 25",
+							"promedio":" 29",
+							"maxima":"38"
+						},
+						{
+							"@id":"3",
+							"nombredia":" Miercoles",
+							"minima":" 25",
+							"promedio":" 33",
+							"maxima":"39"
+						},
+						{
+							"@id":"4",
+							"nombredia":" Jueves",
+							"minima":" 24",
+							"promedio":" 32",
+							"maxima":"34"
+						},
+						{
+							"@id":"5",
+							"nombredia":" Viernes",
+							"minima":" 25",
+							"promedio":" 29",
+							"maxima":"34"
+						},
+						{
+							"@id":"6",
+							"nombredia":" Sabado",
+							"minima":" 24",
+							"promedio":" 34",
+							"maxima":"39"
+						},
+						{
+							"@id":"7",
+							"nombredia":"Domingo",
+							"minima":" 26",
+							"promedio":" 36",
+							"maxima":"40"
+						}
+					]
+				}
+			}
+		]}
+}
