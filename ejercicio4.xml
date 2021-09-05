@@ -49,7 +49,7 @@
     </nombre>
 </estacion>
 <estacion id="2">
-<nombre>Ocidente
+<nombre>Central
     <dia id="1" >
     <nombredia> Lunes</nombredia>
         <minima> 20</minima>
