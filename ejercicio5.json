@@ -1,0 +1,88 @@
+{
+	"agenda":{"contacto":[
+			{
+				"@id":"1",
+				"nombre":"Miguel",
+				"apellido":"Peña",
+				"telefono":"22234212",
+				"celular":"72302364",
+				"direccion":"Calle Monserrat",
+				"email":"pc12016@ues.edu.sv",
+				"nacimiento":"01-08-1992",
+				"fechacreacion":"01-09-2021",
+				"tipoContacto":"Personal"
+			},
+			{
+				"@id":"2",
+				"nombre":"Carlos",
+				"apellido":"Callejas",
+				"telefono":"23415234",
+				"celular":"61231243",
+				"direccion":"Autopista sur",
+				"email":"cc@gmail.com",
+				"nacimiento":"12-12-1988",
+				"fechacreacion":"12-03-2021",
+				"tipoContacto":"Empresarial"
+			},
+			{
+				"@id":"3",
+				"nombre":"Enrique",
+				"apellido":"Córdova",
+				"telefono":"22431432",
+				"celular":"73023612",
+				"direccion":"Col. Luz",
+				"email":"enrique@gmail.com",
+				"nacimiento":"01-09-2000",
+				"fechacreacion":"11-4-2021",
+				"tipoContacto":"Personal"
+			},
+			{
+				"@id":"4",
+				"nombre":"Ángel",
+				"apellido":"Calderón",
+				"telefono":"23000432",
+				"celular":"63142323",
+				"direccion":"Antiguo Cuscatlán",
+				"email":"Angel@hotmail.com",
+				"nacimiento":"30-11-1990",
+				"fechacreacion":"01-09-2021",
+				"tipoContacto":"Personal"
+			},
+			{
+				"@id":"5",
+				"nombre":"Christian",
+				"apellido":"Pérez",
+				"telefono":"22434123",
+				"celular":"72112237",
+				"direccion":"Col. Satelite",
+				"email":"cperez@gmail.com",
+				"nacimiento":"01-09-1995",
+				"fechacreacion":"01-09-2021",
+				"tipoContacto":"Personal"
+			},
+			{
+				"@id":"6",
+				"nombre":"Edgardo",
+				"apellido":"Rodríguez",
+				"telefono":"23542365",
+				"celular":"61223532",
+				"direccion":"San Marcos",
+				"email":"brodriguez@gmail.com",
+				"nacimiento":"01-12-1985",
+				"fechacreacion":"01-09-2021",
+				"tipoContacto":"Personal"
+			},
+			{
+				"@id":"7",
+				"nombre":"Jennifer",
+				"apellido":"Hernández",
+				"telefono":"23513498",
+				"celular":"71227389",
+				"direccion":"Ilopango",
+				"email":"jenher@gmail.com",
+				"nacimiento":"01-03-1986",
+				"fechacreacion":"23-09-2021",
+				"tipoContacto":"Personal"
+			}
+		]}
+}
