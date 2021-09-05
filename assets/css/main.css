@@ -1775,6 +1775,7 @@ input, select, textarea {
 		text-align: center;
 		height: 4.25em;
 		cursor: default;
+		padding-bottom: 7.5%;
 	}
 
 		#nav a {
@@ -1796,6 +1797,7 @@ input, select, textarea {
 
 			#nav a.icon:before {
 				padding-right: 0;
+				padding-top: 10%;	
 			}
 
 			#nav a:before {
@@ -1836,6 +1838,7 @@ input, select, textarea {
 				width: 5.5em;
 				margin-left: -2.75em;
 				padding-bottom: 20%;
+				padding-top: 5%;
 			}
 
 				#nav a span:after {
@@ -1847,7 +1850,7 @@ input, select, textarea {
 					margin-left: -0.6em;
 					border-top: solid 0.6em #222222;
 					border-left: solid 0.6em transparent;
-					border-right: solid 0.6em transparent;	
+					border-right: solid 0.6em transparent;
 				}
 
 			#nav a:hover {
@@ -1877,11 +1880,11 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		width: 100%;
+		width: auto;
 		margin: 0 auto;
 		min-height: 100vh;
 		max-width: 100%;
-		padding: 2em 0;
+		padding: 3em 0;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
