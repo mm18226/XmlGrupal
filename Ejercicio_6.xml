@@ -1,4 +1,5 @@
 ﻿<?xml-stylesheet encoding="UTF-8" href="estilosejercicio6.css"?>
+<general>
 <datos>
             <Estudiante id="A">
                       <nombre>Fernando Miguel</nombre>
@@ -13,7 +14,6 @@
                                                <laboratorio>M 9:00-10:00</laboratorio>
                                         </horario>
                              </materia1>
-                             
                              <mateira2>
                                 <codigo>ING215</codigo>
                                 <asignatura>Ingles</asignatura>
@@ -22,7 +22,6 @@
                                                <laboratorio>GLV 15:00-16:00</laboratorio>
                                         </horario>
                              </mateira2>
-                             
                              <materia3>
                              <codigo>FIR215</codigo>
                                 <asignatura>Fisica ll</asignatura>
@@ -174,3 +173,4 @@
            </Estudiante>
             
 </datos>
+</general>
