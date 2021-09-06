@@ -1,0 +1,169 @@
+{
+	"datos":{"Estudiante":[
+			{
+				"@id":"A",
+				"nombre":"Fernando Miguel",
+				"apellido":"Alvarez Aguirre",
+				"carnet":"ER23456",
+				"materias":{
+					"@id":"a",
+					"materia1":{
+						"codigo":"MAT215",
+						"asignatura":"Matematicas ll",
+						"horario":{
+							"teorico":"L 8:00-9:00",
+							"laboratorio":"M 9:00-10:00"
+						}
+					},
+					"mateira2":{
+						"codigo":"ING215",
+						"asignatura":"Ingles",
+						"horario":{
+							"teorico":"GT J 13:00-14:00",
+							"laboratorio":"GLV 15:00-16:00"
+						}
+					},
+					"materia3":{
+						"codigo":"FIR215",
+						"asignatura":"Fisica ll",
+						"horario":{
+							"teorico":"GT L 16:00-17:00",
+							"laboratorio":"GL M 12:00-13:00"
+						}
+					}
+				}
+			},
+			{
+				"@id":"B",
+				"nombre":"Juan Jose",
+				"apellido":"Guardado Leiva",
+				"carnet":"GL00456",
+				"materias":{
+					"@id":"b",
+					"materia1":{
+						"codigo":"MAT215",
+						"asignatura":"Matematicas ll",
+						"horario":{
+							"teorico":"GT L 8:00-9:00",
+							"laboratorio":"GL M 9:00-10:00"
+						}
+					},
+					"mateira2":{
+						"codigo":"ING115",
+						"asignatura":"Ingles Tecnico",
+						"horario":{
+							"teorico":"GT V 11:00-12:00",
+							"laboratorio":"GL V 15:00-16:00"
+						}
+					},
+					"materia3":{
+						"codigo":"FIR115",
+						"asignatura":"Fisica l",
+						"horario":{
+							"teorico":"GT X 15:00-1600",
+							"laboratorio":"GL V 13:00-14:00"
+						}
+					}
+				}
+			},
+			{
+				"@id":"C",
+				"nombre":"Jorge Alfredo",
+				"apellido":"Alvarez Mendez",
+				"carnet":"AM00566",
+				"materias":{
+					"@id":"c",
+					"materia1":{
+						"codigo":"PRN115",
+						"asignatura":"Programacion l",
+						"horario":{
+							"teorico":"GT X 14:00-15:00",
+							"laboratorio":"GL J 16:00-17:00"
+						}
+					},
+					"materia2":{
+						"codigo":"ESD215",
+						"asignatura":"Estructura de datos",
+						"horario":{
+							"teorico":"GT L 11:00-13:00",
+							"laboratorio":"GL J 14:00-16:00"
+						}
+					},
+					"materia3":{
+						"codigo":"FIR115",
+						"asignatura":"Fisica l",
+						"horario":{
+							"teorico":"GT X 15:00-1600",
+							"laboratorio":"GL V 13:00-14:00"
+						}
+					}
+				}
+			},
+			{
+				"@id":"D",
+				"nombre":"Eduardo Antonio",
+				"apellido":"Flores Mendoza",
+				"carnet":"FM02366",
+				"materias":{
+					"@id":"d",
+					"materia1":{
+						"codigo":"PRN215",
+						"asignatura":"Programacion ll",
+						"horario":{
+							"teorico":"GT M 14:00-15:00",
+							"laboratorio":"GL V 15:00-17:00"
+						}
+					},
+					"materia2":{
+						"codigo":"MAT315",
+						"asignatura":"Matematicas lll",
+						"horario":{
+							"teorico":"GT X 11:00-13:00",
+							"laboratorio":"GL J 14:00-16:00"
+						}
+					},
+					"materia3":{
+						"codigo":"FIR215",
+						"asignatura":"Fisica ll",
+						"horario":{
+							"teorico":"GT X 15:00-1600",
+							"laboratorio":"GL V 13:00-14:00"
+						}
+					}
+				}
+			},
+			{
+				"@id":"E",
+				"nombre":"Alexander Manuel",
+				"apellido":"Avelar Lopez",
+				"carnet":"AL00066",
+				"materias":{
+					"@id":"e",
+					"materia1":{
+						"codigo":"PRN115",
+						"asignatura":"Programacion l",
+						"horario":{
+							"teorico":"GT L 15:00-16:00",
+							"laboratorio":"GL V 15:00-17:00"
+						}
+					},
+					"materia2":{
+						"codigo":"MAT315",
+						"asignatura":"Matematicas lll",
+						"horario":{
+							"teorico":"GT X 11:00-13:00",
+							"laboratorio":"GL J 14:00-16:00"
+						}
+					},
+					"materia3":{
+						"codigo":"FIR215",
+						"asignatura":"Fisica ll",
+						"horario":{
+							"teorico":"GT X 15:00-1600",
+							"laboratorio":"GL V 13:00-14:00"
+						}
+					}
+				}
+			}
+		]}
+}
