@@ -1,1 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<datos>
+            <Estudiante id="A">
+                      <nombre>Fernando Miguel</nombre>
+                      <apellido>Alvarez Aguirre</apellido>
+                      <carnet>ER23456</carnet>
+                      <materias id="a">
+                             <materia1>
+                                <codigo>MAT215</codigo>
+                                <asignatura>Matematicas ll</asignatura>
+                                        <horario>
+                                               <teorico>L 8:00-9:00</teorico>
+                                               <laboratorio>M 9:00-10:00</laboratorio>
+                                        </horario>
+                             </materia1>
+                             
+                             <mateira2>
+                                <codigo>ING215</codigo>
+                                <asignatura>Ingles</asignatura>
+                                        <horario>
+                                               <teorico>GT J 13:00-14:00</teorico>
+                                               <laboratorio>GLV 15:00-16:00</laboratorio>
+                                        </horario>
+                             </mateira2>
+                             
+                             <materia3>
+                             <codigo>FIR215</codigo>
+                                <asignatura>Fisica ll</asignatura>
+                                        <horario>
+                                               <teorico>GT L 16:00-17:00</teorico>
+                                               <laboratorio>GL M 12:00-13:00</laboratorio>
+                                        </horario>
+                             </materia3>
+                             
+                             
+                       </materias>
+            </Estudiante>
+            
+             <Estudiante id="B">
+                      <nombre>Juan Jose</nombre>
+                      <apellido>Guardado Leiva</apellido>
+                      <carnet>GL00456</carnet>
+                      <materias id="b">
+                             <materia1>
+                                <codigo>MAT215</codigo>
+                                <asignatura>Matematicas ll</asignatura>
+                                        <horario>
+                                               <teorico>GT L 8:00-9:00</teorico>
+                                               <laboratorio>GL M 9:00-10:00</laboratorio>
+                                        </horario>
+                             </materia1>
+                             
+                             <mateira2>
+                                <codigo>ING115</codigo>
+                                <asignatura>Ingles Tecnico</asignatura>
+                                        <horario>
+                                               <teorico>GT V 11:00-12:00</teorico>
+                                               <laboratorio>GL V 15:00-16:00</laboratorio>
+                                        </horario>
+                             </mateira2>
+                             
+                             <materia3>
+                             <codigo>FIR115</codigo>
+                                <asignatura>Fisica l</asignatura>
+                                        <horario>
+                                               <teorico>GT X 15:00-1600</teorico>
+                                               <laboratorio>GL V 13:00-14:00</laboratorio>
+                                        </horario>
+                             </materia3>
+                       </materias>
+           </Estudiante>
+            
+            
+             <Estudiante id="C">
+                      <nombre>Jorge Alfredo</nombre>
+                      <apellido>Alvarez Mendez</apellido>
+                      <carnet>AM00566</carnet>
+                      <materias id="c">
+                                 <materia1>
+                             <codigo>PRN115</codigo>
+                                <asignatura>Programacion l</asignatura>
+                                        <horario>
+                                               <teorico>GT X 14:00-15:00</teorico>
+                                               <laboratorio>GL J 16:00-17:00</laboratorio>
+                                        </horario>
+                             </materia1>
+                             
+                             <materia2>
+                             <codigo>ESD215</codigo>
+                                <asignatura>Estructura de datos</asignatura>
+                                        <horario>
+                                               <teorico>GT L 11:00-13:00</teorico>
+                                               <laboratorio>GL J 14:00-16:00</laboratorio>
+                                        </horario>
+                             </materia2>
+                             
+                                   <materia3>
+                             <codigo>FIR115</codigo>
+                                <asignatura>Fisica l</asignatura>
+                                        <horario>
+                                               <teorico>GT X 15:00-1600</teorico>
+                                               <laboratorio>GL V 13:00-14:00</laboratorio>
+                                        </horario>
+                             </materia3>
+           </materias>
+           </Estudiante>
+            
+            <Estudiante id="D">
+                      <nombre>Eduardo Antonio</nombre>
+                      <apellido>Flores Mendoza</apellido>
+                      <carnet>FM02366</carnet>
+                      <materias id="d">
+                                 <materia1>
+                             <codigo>PRN215</codigo>
+                                <asignatura>Programacion ll</asignatura>
+                                        <horario>
+                                               <teorico>GT M 14:00-15:00</teorico>
+                                               <laboratorio>GL V 15:00-17:00</laboratorio>
+                                        </horario>
+                             </materia1>
+                             
+                             <materia2>
+                             <codigo>MAT315</codigo>
+                                <asignatura>Matematicas lll</asignatura>
+                                        <horario>
+                                               <teorico>GT X 11:00-13:00</teorico>
+                                               <laboratorio>GL J 14:00-16:00</laboratorio>
+                                        </horario>
+                             </materia2>
+                             
+                                   <materia3>
+                             <codigo>FIR215</codigo>
+                                <asignatura>Fisica ll</asignatura>
+                                        <horario>
+                                               <teorico>GT X 15:00-1600</teorico>
+                                               <laboratorio>GL V 13:00-14:00</laboratorio>
+                                        </horario>
+                             </materia3>
+                        </materias>
+           </Estudiante>
+           
+            <Estudiante id="E">
+                      <nombre>Alexander Manuel</nombre>
+                      <apellido>Avelar Lopez</apellido>
+                      <carnet>AL00066</carnet>
+                      <materias id="e">
+                                 <materia1>
+                             <codigo>PRN115</codigo>
+                                <asignatura>Programacion l</asignatura>
+                                        <horario>
+                                               <teorico>GT L 15:00-16:00</teorico>
+                                               <laboratorio>GL V 15:00-17:00</laboratorio>
+                                        </horario>
+                             </materia1>
+                             
+                             <materia2>
+                             <codigo>MAT315</codigo>
+                                <asignatura>Matematicas lll</asignatura>
+                                        <horario>
+                                               <teorico>GT X 11:00-13:00</teorico>
+                                               <laboratorio>GL J 14:00-16:00</laboratorio>
+                                        </horario>
+                             </materia2>
+                             
+                                   <materia3>
+                             <codigo>FIR215</codigo>
+                                <asignatura>Fisica ll</asignatura>
+                                        <horario>
+                                               <teorico>GT X 15:00-1600</teorico>
+                                               <laboratorio>GL V 13:00-14:00</laboratorio>
+                                        </horario>
+                             </materia3>
+                    </materias>
+           </Estudiante>
+            
+</datos>
